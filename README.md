@@ -5,7 +5,7 @@
 
 # Macari_Stanislav
 # 💫 About Me:
- am a student studying Information Technology with a focus on web development. I have experience with programming languages such as Python, Java, C++, and JavaScript. In frontend development, I am well-versed in libraries and frameworks like Bootstrap, Tailwind, and React.<br><br>I mainly work on creating websites and web applications. Currently, I am working on a pet project for a service store website, as well as developing another pet project, which is a platform similar to Reddit but with unique functionality based on React.
+I am a student studying Information Technology with a focus on web development. I have experience with programming languages such as Python, Java, C++, and JavaScript. In frontend development, I am well-versed in libraries and frameworks like Bootstrap, Tailwind, and React.<br><br>I mainly work on creating websites and web applications. Currently, I am working on a pet project for a service store website, as well as developing another pet project, which is a platform similar to Reddit but with unique functionality based on React.
 
 
 ## 🌐 Socials:
