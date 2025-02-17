@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**MacariStanislav/MacariStanislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # Macari_Stanislav
 # 💫 About Me:
